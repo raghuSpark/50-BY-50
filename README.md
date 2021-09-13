@@ -5,3 +5,4 @@ This is a purely project-based challenge. This challenge includes 50 mini projec
 ## Day 2 - Progress Steps
 ## Day 3 - Rotating Navigation
 ## Day 4 - Hidden Search Widget
+## Day 5 - Blurry Loading
