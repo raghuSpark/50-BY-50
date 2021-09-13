@@ -9,3 +9,4 @@ This is a purely project-based challenge. This challenge includes 50 mini projec
 ## Day 6 - Scroll Animation
 ## Day 7 - Split Landing Page
 ## Day 8 - Form Wave Animation
+## Day 9 - Sound Board
