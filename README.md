@@ -3,3 +3,4 @@ This is a purely project-based challenge. This challenge includes 50 mini projec
 <br>Here is a list of what I did create in this challenge:
 ## Day 1 - Expanding Cards
 ## Day 2 - Progress Steps
+## Day 3 - Rotating Navigation
