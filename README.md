@@ -7,3 +7,4 @@ This is a purely project-based challenge. This challenge includes 50 mini projec
 ## Day 4 - Hidden Search Widget
 ## Day 5 - Blurry Loading
 ## Day 6 - Scroll Animation
+## Day 7 - Split Landing Page
