@@ -1,12 +1,24 @@
 # 50 Projects In 50 Days - HTML, CSS &amp; JavaScript
-This is a purely project-based challenge. This challenge includes 50 mini projects in HTML, CSS & JavaScript that relate to the DOM (Document Object Model). 
+
+This is a purely project-based challenge. This challenge includes 50 mini projects in HTML, CSS & JavaScript that relate to the DOM (Document Object Model).
 <br>Here is a list of what I did create in this challenge:
-## Day 1 - Expanding Cards
-## Day 2 - Progress Steps
-## Day 3 - Rotating Navigation
-## Day 4 - Hidden Search Widget
-## Day 5 - Blurry Loading
-## Day 6 - Scroll Animation
-## Day 7 - Split Landing Page
-## Day 8 - Form Wave Animation
-## Day 9 - Sound Board
+
+## Day 01 - Expanding Cards
+
+## Day 02 - Progress Steps
+
+## Day 03 - Rotating Navigation
+
+## Day 04 - Hidden Search Widget
+
+## Day 05 - Blurry Loading
+
+## Day 06 - Scroll Animation
+
+## Day 07 - Split Landing Page
+
+## Day 08 - Form Wave Animation
+
+## Day 09 - Sound Board
+
+## Day 10 - Dad Jokes
