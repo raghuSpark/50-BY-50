@@ -24,3 +24,5 @@ This is a purely project-based challenge. This challenge includes 50 mini projec
 ## Day 10 - Dad Jokes
 
 ## Day 11 - Event KeyCodes
+
+## Day 12 - FAQ Collapse
