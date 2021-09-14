@@ -28,3 +28,5 @@ This is a purely project-based challenge. This challenge includes 50 mini projec
 ## Day 12 - FAQ Collapse
 
 ## Day 13 - Random Choice Picker
+
+## Day 14 - Animated Navigation
