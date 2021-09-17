@@ -36,3 +36,5 @@ This is a purely project-based challenge. This challenge includes 50 mini projec
 ## Day 16 - Drink Water
 
 ## Day 17 - Movies App
+
+## Day 18 - Background Slider
