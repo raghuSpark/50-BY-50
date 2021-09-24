@@ -54,9 +54,9 @@ function drawLine(x1, y1, x2, y2) {
 decButton.addEventListener('click', () => {
     size -= 5;
     if (size == 45) {
-        decButton.disabled = false;
+        incButton.disabled = false;
     } else if (size == 5) {
-        incButton.disabled = true;
+        decButton.disabled = true;
     }
     sizeSpan.innerText = size;
 });
@@ -64,9 +64,9 @@ decButton.addEventListener('click', () => {
 incButton.addEventListener('click', () => {
     size += 5;
     if (size == 10) {
-        incButton.disabled = false;
+        decButton.disabled = false;
     } else if (size == 50) {
-        decButton.disabled = true;
+        incButton.disabled = true;
     }
     sizeSpan.innerText = size;
 });
