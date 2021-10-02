@@ -44,3 +44,7 @@ This is a purely project-based challenge. This challenge includes 50 mini projec
 ## Day 20 - Button Ripple Effect
 
 ## Day 21 - Drag N Drop
+
+## Day 22 - Drawing App
+
+## Day 23 - Kinetic CSS Loader
